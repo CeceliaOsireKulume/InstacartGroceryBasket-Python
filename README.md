@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/7ca2b5d6-99f6-462f-bc17-8a3ebf02d909)
+
+
+
 # InstacartGroceryBasket-Python
 I used data exploratory analysis to derive insights and suggest strategies for better segmentation based on provided criteria and information on sales patterns.
 
