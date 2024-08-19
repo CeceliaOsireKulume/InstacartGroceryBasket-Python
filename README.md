@@ -38,7 +38,7 @@ The stakeholders have assumed that they can't target everyone using the same met
 ● departments
 
 The customer dataset and column 'prices' were added to the original dataset for learning purpose of the Career Foundary course.
-[The Instacart Online Grocery Shopping Dataset 2017] (www.instacart.com/datasets/grocery-shopping-2017 via Kaggle) on <date>.
+[The Instacart Online Grocery Shopping Dataset 2017] (www.instacart.com/datasets/grocery-shopping-2017)
 
 ## Tools
 The data was analysed using Python and the following libraries:
